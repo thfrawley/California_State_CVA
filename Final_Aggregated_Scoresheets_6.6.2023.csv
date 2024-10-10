@@ -1,4 +1,4 @@
-Species,Sensitivity_or_Exposure,Description,Initial_Weighted_Mean,sd,n,se,Proposed_Revision,Final_Score
+Species,Sensitivity_or_Exposure,Description,Initial_Weighted_Mean,sd,n,se,SME_Initiated_Revision,Final_Score
 Barred_Sand_Bass,exposure_Near,mean_air_temp,1.60,0.63,15,0.16,FALSE,1.60
 Barred_Sand_Bass,exposure_Near,mean_percipitation,1.67,0.62,15,0.16,FALSE,1.67
 Barred_Sand_Bass,exposure_Near,mean_pH,2.87,0.64,15,0.17,FALSE,2.87
